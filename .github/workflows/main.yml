@@ -19,4 +19,4 @@ jobs:
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
         with:
           args:
-            -Dsonar.projectKey=ChristopheH-SonarQube-Projects_Code-Scanning-Alerts_AYLzYQK6o9H8mL6s4ABo
+            -Dsonar.projectKey=ChristopheH-SonarQube-Projects_Code-Scanning-Alerts_AYaYMRaEn5oq5r03wj5i
